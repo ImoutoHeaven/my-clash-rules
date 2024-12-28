@@ -1,4 +1,5 @@
 payload:
+  - '+.ai.google.dev'
   - '+.aistudio.google.com'
   - '+.chatgpt.com'
   - 'a.nel.cloudflare.com'
