@@ -1,4 +1,5 @@
 payload:
+  - 'geller-pa.googleapis.com'
   - 'people-pa.clients6.google.com'
   - 'waa-pa.clients6.google.com'
   - 'alkalimakersuite-pa.clients6.google.com'
