@@ -13,6 +13,7 @@ payload:
   - '+.pay.openai.com'
   - '+.identrust.com'
   - 'openaiapi-site.azureedge.net'
+  - '+.sora.com'
   - '+.chat.openai.com'
   - '+.challenges.cloudflare.com'
   - '+.auth0.openai.com'
