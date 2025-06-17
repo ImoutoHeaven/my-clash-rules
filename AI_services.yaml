@@ -23,6 +23,7 @@ payload:
   - '+.stripe.com'
   - '+.poe.com'
   - '+.bard.google.com'
+  - '+.gemini.google.com'
   - '+.anthropic.com'
   - '+.claude.ai'
   - '+.forefront.ai'
